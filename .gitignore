@@ -1,0 +1,23 @@
+# mypy
+.mypy_cache
+
+# test file
+test
+test.txt
+
+# run file
+run
+run.bat
+
+# pytest
+.pytest_cache
+__pycache__
+
+# vscode files
+.vscode
+
+# groundhog
+groundhog
+
+# coverage
+.coverage
